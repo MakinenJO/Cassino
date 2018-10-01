@@ -1,0 +1,37 @@
+16,0
+10H,9D,4D,7D,11C,8D,11D,1H,2H,4H,12S,13C,8C,13H,11H,12H,6S,1C,12D,6H,7C,12C,10S,9H,10D,9C,3D,5C
+0
+4
+5,Alex,0,0,13D;7S;1D;5S,1S;5D;2D;8S
+2,Clifford,0,0,7H;9S;11S;3S,0
+2,Tyrone,0,0,5H;6D;2S;8H,3C;3H
+2,Ava,0,1,6C;13S;2C;10C,4S;4C
+0,3,1,1,4
+Dealing new round....
+
+----------
+Alex's turn
+Invalid move
+Alex used 8 of Spades to capture:
+1 of Spades
+5 of Diamonds
+2 of Diamonds
+
+----------
+Clifford's turn
+Clifford trailed with 4 of Spades
+
+----------
+Tyrone's turn
+Tyrone used 3 of Hearts to capture:
+3 of Clubs
+
+----------
+Ava's turn
+Ava used 4 of Clubs to capture:
+4 of Spades
+Sweep!
+
+----------
+Alex's turn
+
